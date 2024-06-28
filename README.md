@@ -1,5 +1,5 @@
 # dbapi
-database lecture assignment source codes
+DBMS lecture assignment source code
 <br/>
 
 REST API server
